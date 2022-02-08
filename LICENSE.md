@@ -2,14 +2,8 @@
 <html>
  <head>
   <title>M1.com</title>
- </head>
- <body>
-  <h1>Welcome to M1! Click below to renew your internet membership<h1>
-  <p>An agent will get to you shortly. Please wait patiently.<p>
- </body>
-</html>
-
-:root {
+  <style>
+   :root {
     --bg-color: rgb(0, 0, 0);
     --typewriterSpeed: 3.5s;
     --typewriterCharacters: 25;
@@ -103,3 +97,10 @@
       transform: translateY(0);
     }
   }
+  </style>
+ </head>
+ <body>
+  <h1>Welcome to M1! Click below to renew your internet membership<h1>
+  <p>An agent will get to you shortly. Please wait patiently.<p>
+ </body>
+</html>
