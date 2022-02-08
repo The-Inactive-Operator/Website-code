@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
  <head>
-   <title>M1.com</title>
+  <title>M1.com</title>
  </head>
  <body>
   <h1>Welcome to M1! Click below to renew your internet membership<h1>
+  <p>An agent will get to you shortly. Please wait patiently.<p>
  </body>
 </html>
